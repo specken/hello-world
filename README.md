@@ -1,2 +1,3 @@
-# hello-world
-Learning how to use GitHub
+# dit is de titel
+Ik wil leren om GitHub te gebruiken.
+Dit is de readme file.
